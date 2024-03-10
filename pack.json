@@ -1,0 +1,10 @@
+{
+  "name": "Persona 3 Reload",
+  "description": "P3R OST Music Pack for SteamDeck",
+  "author": "devbywub",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
